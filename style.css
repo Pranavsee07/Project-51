@@ -1,0 +1,40 @@
+.menu{
+display:flex;
+justify-content:space-between;
+background-color: #000000;
+padding: 15px;
+font-size: 40px;
+color:#FFFFFF;
+
+}
+
+body{
+    background-color:#000000;
+    justify-content: space-evenly;
+-ms-flex-align: center;
+color:#FFFFFF;
+font-size: 20px;
+margin:0px;
+
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    margin: 25px; 
+}
+
+.grid img{
+border: 7px solid #1723c9;
+border-radius: 50px;
+background:#FFFFFF;
+}
+
+.origami{
+    border-radius: 20px;
+    background:#000000;
+    width: 310px;
+    padding: 10px;
+    margin: 25px;
+
+}
